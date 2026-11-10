@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1540 264" width="1540" height="264" role="img" aria-label="Blue Coding School logo">
+  <defs>
+    <radialGradient id="squareGlow" cx="50%" cy="48%" r="55%">
+      <stop offset="0" stop-color="#4a3fb0"/>
+      <stop offset="0.55" stop-color="#1a0b74"/>
+      <stop offset="1" stop-color="#12055a"/>
+    </radialGradient>
+    <filter id="neon" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1540" height="264" fill="#ffffff"/>
+  <rect x="20" y="20" width="237" height="224" fill="url(#squareGlow)"/>
+  <g fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" filter="url(#neon)">
+    <path d="M94 92 L144 149 L195 92"/>
+    <path d="M144 149 L144 198"/>
+  </g>
+  <text x="300" y="222" font-family="Georgia, 'Times New Roman', serif" font-size="76" fill="#0d0550" textLength="1200" lengthAdjust="spacing">BLUE CODING SCHOOL</text>
+</svg>
