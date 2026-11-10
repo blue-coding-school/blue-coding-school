@@ -28,7 +28,7 @@ The **Founder, CEO and Lead Mentor** of Blue Coding School is the **best student
  
 - 🧑‍🏫 **Direct mentorship**: you learn from the founder, with no middle layers.
 - 🏆 **Topper-led teaching**: proven expertise in Information Technology, taught in a simple and practical way.
-- 💻 **Hands-on learning**: real projects instead of theory-only classes.
+- 💻 **Hands-on learning**: real projects instead of theory-only classes. Also in Tamil language. 
 - 🤝 **Personal guidance**: your doubts, your pace and your career goals matter.
 - 🚀 **Career focus**: from the basics to being job-ready.
 ## 🔥 Now Enrolling: Programming with C (30 Days)
