@@ -3,14 +3,17 @@
 <br/><br/>
  
 <img src="door.svg" alt="Doors open to reveal: Welcome to Blue Coding School" width="800" />
-# Where Beginners Become Builders. 💙
+## Where Beginners Become Builders. 💙
  
 **Live classes with the Best Student & Topper of Information Technology as your direct mentor.**
  
 <br/>
-![Role](https://img.shields.io/badge/Role-Founder%20%26%20CEO-12055a?style=for-the-badge)
-![Mentor](https://img.shields.io/badge/Direct-Mentor-12055a?style=for-the-badge)
-![Field](https://img.shields.io/badge/Information%20Technology-Topper-12055a?style=for-the-badge)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-12055a?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Direct-Mentor-12055a?style=for-the-badge" alt="Mentor" />
+  <img src="https://img.shields.io/badge/Information%20Technology-Topper-12055a?style=for-the-badge" alt="Field" />
+</p>
  
 </div>
 ---
@@ -62,8 +65,10 @@ The **Founder, CEO and Lead Mentor** of Blue Coding School is the **best student
 ## 📊 GitHub stats
  
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=blue-coding-school&show_icons=true&theme=midnight-purple&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-coding-school&layout=compact&theme=midnight-purple&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blue-coding-school&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-coding-school&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages" />
+</p>
  
 </div>
 
