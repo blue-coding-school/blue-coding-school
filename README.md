@@ -62,8 +62,8 @@ The **Founder, CEO and Lead Mentor** of Blue Coding School is the **best student
 ## 📊 GitHub stats
  
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=blue-coding-school&show_icons=true&theme=midnight-purple&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-coding-school&layout=compact&theme=midnight-purple&hide_border=true)
  
 </div>
 
