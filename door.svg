@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320" role="img" aria-label="Doors open to reveal: Welcome to Blue Coding School. Where Beginners Become Builders.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b0a7a"/>
+      <stop offset="1" stop-color="#07013a"/>
+    </linearGradient>
+    <radialGradient id="light" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#8f86ff" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#12055a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="doorL" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a0340"/>
+      <stop offset="1" stop-color="#1d0f86"/>
+    </linearGradient>
+    <linearGradient id="doorR" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1d0f86"/>
+      <stop offset="1" stop-color="#0a0340"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- room behind the doors -->
+  <rect width="900" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="900" height="320" rx="16" fill="url(#light)">
+    <animate attributeName="opacity" values="0.15;0.15;1;1;0.15" keyTimes="0;0.1;0.35;0.85;1" dur="10s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- message revealed when doors open -->
+  <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" fill="#ffffff">
+    <text x="450" y="100" font-size="18" letter-spacing="8" fill="#b9b3ff">WELCOME TO</text>
+    <text x="450" y="162" font-size="46" letter-spacing="4" filter="url(#glow)">BLUE CODING SCHOOL</text>
+    <text x="450" y="212" font-size="22" font-style="italic" fill="#d9d6ff">Where Beginners Become Builders</text>
+    <text x="450" y="258" font-size="15" letter-spacing="3" fill="#8f86ff">LIVE CLASSES  ·  REAL SKILLS  ·  CERTIFIED</text>
+  </g>
+
+  <!-- left door -->
+  <g>
+    <animateTransform attributeName="transform" type="scale" values="1 1;1 1;0.03 1;0.03 1;1 1" keyTimes="0;0.1;0.35;0.85;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1" dur="10s" repeatCount="indefinite"/>
+    <rect x="0" y="0" width="450" height="320" rx="16" fill="url(#doorL)"/>
+    <rect x="30" y="30" width="390" height="260" fill="none" stroke="#3b2fb5" stroke-width="2"/>
+    <rect x="52" y="52" width="346" height="216" fill="none" stroke="#2a1fa0" stroke-width="2"/>
+    <circle cx="418" cy="165" r="10" fill="#c9c4ff"/>
+    <line x1="450" y1="0" x2="450" y2="320" stroke="#4a3fb0" stroke-width="3"/>
+  </g>
+
+  <!-- right door -->
+  <g transform="translate(900 0)">
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="1 1;1 1;0.03 1;0.03 1;1 1" keyTimes="0;0.1;0.35;0.85;1" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1" dur="10s" repeatCount="indefinite"/>
+      <rect x="-450" y="0" width="450" height="320" rx="16" fill="url(#doorR)"/>
+      <rect x="-420" y="30" width="390" height="260" fill="none" stroke="#3b2fb5" stroke-width="2"/>
+      <rect x="-398" y="52" width="346" height="216" fill="none" stroke="#2a1fa0" stroke-width="2"/>
+      <circle cx="-418" cy="165" r="10" fill="#c9c4ff"/>
+      <line x1="-450" y1="0" x2="-450" y2="320" stroke="#4a3fb0" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
