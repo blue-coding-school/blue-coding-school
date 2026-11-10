@@ -1,21 +1,19 @@
-<div align="center">
-<img src="logo.svg" alt="Blue Coding School logo" width="560" />
-<br/><br/>
+<p align="center">
+  <img src="logo.svg" alt="Blue Coding School logo" width="560" />
+</p>
+<p align="center">
+  <img src="door.svg" alt="Doors open to reveal: Welcome to Blue Coding School" width="800" />
+</p>
+<h1 align="center">Where Beginners Become Builders. 💙</h1>
  
-<img src="door.svg" alt="Doors open to reveal: Welcome to Blue Coding School" width="800" />
-## Where Beginners Become Builders. 💙
- 
-**Live classes with the Best Student & Topper of Information Technology as your direct mentor.**
- 
-<br/>
-
+<p align="center">
+  <b>Live classes with the Best Student &amp; Topper of Information Technology as your direct mentor.</b>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Founder%20%26%20CEO-12055a?style=for-the-badge" alt="Role" />
   <img src="https://img.shields.io/badge/Direct-Mentor-12055a?style=for-the-badge" alt="Mentor" />
   <img src="https://img.shields.io/badge/Information%20Technology-Topper-12055a?style=for-the-badge" alt="Field" />
 </p>
- 
-</div>
 ---
  
 ## 👋 Welcome to Blue Coding School
@@ -48,8 +46,7 @@ The **Founder, CEO and Lead Mentor** of Blue Coding School is the **best student
  
 ### 📲 Enroll now
  
-**DM us on Instagram: [@blue_coding_school](https://instagram.com/blue_coding_school)** and send **"JOIN"** 👇
- 
+**DM us on Instagram: [@blue_coding_school](https://www.instagram.com/blue_coding_school)** and send **"JOIN"** 👇
  
 ## 🛠️ Tech I work with
  
@@ -62,29 +59,25 @@ The **Founder, CEO and Lead Mentor** of Blue Coding School is the **best student
 ![Git](https://img.shields.io/badge/-Git-12055a?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-12055a?style=flat-square&logo=github&logoColor=white)
  
-## 📊 GitHub stats
+## 🎓 What you'll gain
  
-<div align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blue-coding-school&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue-coding-school&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Live%20Classes-12055a?style=for-the-badge" alt="Live Classes" />
+  <img src="https://img.shields.io/badge/Real%20Projects-12055a?style=for-the-badge" alt="Real Projects" />
+  <img src="https://img.shields.io/badge/Capstone%20Project-12055a?style=for-the-badge" alt="Capstone Project" />
+  <img src="https://img.shields.io/badge/Certificate-12055a?style=for-the-badge" alt="Certificate" />
+</p>
+## 📬 Join Blue Coding School
+ 
+Want to learn coding directly from the mentor?
+ 
+- 📧 Email: bluecodingschool@gmail.com
+- 📸 Instagram: [@blue_coding_school](https://www.instagram.com/blue_coding_school)
+**DM "JOIN" 👆 to enrol in the next live batch.**
+ 
+---
+ 
+<p align="center">
+  <b>Blue Coding School</b>: <i>Learn directly from the mentor.</i>
 </p>
  
-</div>
-
-## 📬 Join Blue Coding School
-
-Want to learn coding directly from the mentor?
-
-- 📧 Email: bluecodingschool@gmail.com
-- 📸 Instagram: [@blue_coding_school]([https://instagram.com/your-handle](https://www.instagram.com/blue_coding_school?dlrf=M2MyNG5udnNkMnVt))
-
-**DM "JOIN" 👆 to enrol in the next live batch.**
-
----
-
-<div align="center">
-
-**Blue Coding School**: *Learn directly from the mentor.*
-
-</div>
