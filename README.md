@@ -73,6 +73,7 @@ Want to learn coding directly from the mentor?
  
 - 📧 Email: bluecodingschool@gmail.com
 - 📸 Instagram: [@blue_coding_school](https://www.instagram.com/blue_coding_school)
+  
 **DM "JOIN" 👆 to enrol in the next live batch.**
  
 ---
